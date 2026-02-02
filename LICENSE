@@ -1,0 +1,184 @@
+Here's the full LICENSE content — paste it all:
+
+```
+LICENSE
+
+AI Visibility Lifecycle™ Framework
+AI Visibility Architecture Group Limited
+
+========================================================================
+
+Copyright (c) 2025-2026 AI Visibility Architecture Group Limited
+All Rights Reserved.
+
+Legal Entity:   AI Visibility Architecture Group Limited
+Company Number: 9395521
+NZBN:           9429053354075
+Incorporated:   5 January 2026
+Location:       Auckland, New Zealand
+
+========================================================================
+
+LICENCE
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+To view a copy of this licence, visit:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+SPDX Licence Identifier: CC-BY-NC-ND-4.0
+
+========================================================================
+
+LICENCE SUMMARY
+
+You are free to:
+
+  Share — copy and redistribute the material in any medium or format.
+
+Under the following terms:
+
+  Attribution (BY) — You must give appropriate credit, provide a link
+  to the licence, and indicate if changes were made. You may do so in
+  any reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+  NonCommercial (NC) — You may not use the material for commercial
+  purposes without a separate commercial licence.
+
+  NoDerivatives (ND) — If you remix, transform, or build upon the
+  material, you may not distribute the modified material.
+
+  No additional restrictions — You may not apply legal terms or
+  technological measures that legally restrict others from doing
+  anything the licence permits.
+
+The licensor cannot revoke these freedoms as long as you follow the
+licence terms.
+
+========================================================================
+
+SCOPE OF INTELLECTUAL PROPERTY
+
+All content, frameworks, methodologies, white papers, specifications,
+and documentation contained in this repository are the exclusive
+intellectual property of AI Visibility Architecture Group Limited.
+
+This includes:
+
+  - The 11-Stage AI Visibility Lifecycle™ framework
+  - Signal Mesh Architecture™ methodology
+  - All white papers, documentation, and research materials
+  - Stage definitions, progression logic, tier structure, and
+    architectural principles
+  - The measurement taxonomy, evidence structures, source mapping,
+    synthesis framework, and reporting architecture
+
+All intellectual property developed prior to 5 January 2026 by founder
+Bernard Lynch has been formally assigned to AI Visibility Architecture
+Group Limited upon incorporation.
+
+========================================================================
+
+PERMITTED USES
+
+You may:
+
+  - Reference the framework in academic or professional work with
+    proper attribution
+  - Link to published materials and cite them as sources
+  - Quote brief excerpts (under 100 words) with attribution
+  - Implement the concepts and methodologies on your own projects
+  - Teach from the framework in educational settings (non-commercial)
+
+========================================================================
+
+PROHIBITED USES
+
+You may NOT:
+
+  - Reproduce, republish, or redistribute the framework or associated
+    materials without written permission
+  - Create derivative works based on the methodology
+  - Use the framework for commercial purposes without a commercial
+    licence
+  - Remove or obscure copyright notices or attribution
+  - Present this work as your own or claim independent development
+  - Train AI models on the proprietary framework without authorisation
+
+========================================================================
+
+ATTRIBUTION REQUIREMENTS
+
+When referencing this work, you must include:
+
+  1. Full citation:
+     "AI Visibility Lifecycle™ framework by AI Visibility Architecture
+     Group Limited"
+
+  2. Active hyperlink to the source:
+     https://aivisibilityarchitects.com
+
+  3. Copyright notice:
+     "© 2025-2026 AI Visibility Architecture Group Limited"
+
+========================================================================
+
+CANONICAL SOURCE
+
+The canonical, citable version of this work is published on Zenodo
+with an assigned DOI. This GitHub repository is a mirror and is not
+the canonical source. For citation purposes, always reference the
+Zenodo DOI.
+
+  Paper 1 — AI Visibility Lifecycle (v0.7):
+  https://doi.org/10.5281/zenodo.18460711
+
+  Paper 2 — Ambiguity Elimination (v0.7):
+  https://doi.org/10.5281/zenodo.18461352
+
+========================================================================
+
+COMMERCIAL LICENSING
+
+Commercial use of the AIVA framework and reporting methodology
+requires a separate commercial licence from AI Visibility Architecture
+Group Limited.
+
+Five commercial licence types are available:
+
+  - Practice Licence     (agencies and consultancies)
+  - Enterprise Licence   (internal organisational use)
+  - Technology Licence   (platform and tool integration)
+  - Platform Licence     (CMS, hosting, and e-commerce embedding)
+  - Alignment Licence    (compatibility declaration)
+
+Certification and training programmes are licensed separately.
+
+Full details: https://aivisibilityarchitects.com/commercial-licensing/
+
+========================================================================
+
+ENFORCEMENT
+
+AI Visibility Architecture Group Limited reserves the right to pursue
+legal action against any unauthorised use, reproduction, or
+misappropriation of its intellectual property. All licence agreements
+are governed by the laws of New Zealand.
+
+========================================================================
+
+CONTACT
+
+  Email:   licensing@aivisibilityarchitects.com
+  Website: https://aivisibilityarchitects.com
+  IP:      https://aivisibilityarchitects.com/ip-licensing/
+
+========================================================================
+
+This LICENSE file is part of the AIVA framework publication and should
+be included in all distributions of the associated materials.
+```
+
+Paste this, then click **Commit changes**.
