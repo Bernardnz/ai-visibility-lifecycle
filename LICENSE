@@ -1,6 +1,3 @@
-Here's the full LICENSE content — paste it all:
-
-```
 LICENSE
 
 AI Visibility Lifecycle™ Framework
@@ -127,16 +124,57 @@ When referencing this work, you must include:
 
 CANONICAL SOURCE
 
-The canonical, citable version of this work is published on Zenodo
-with an assigned DOI. This GitHub repository is a mirror and is not
+The canonical, citable versions of this work are published on Zenodo
+with assigned DOIs. This GitHub repository is a mirror and is not
 the canonical source. For citation purposes, always reference the
-Zenodo DOI.
+Zenodo DOIs.
 
-  Paper 1 — AI Visibility Lifecycle (v0.7):
-  https://doi.org/10.5281/zenodo.18460711
+  Tier 1 — Core Framework
 
-  Paper 2 — Ambiguity Elimination (v0.7):
-  https://doi.org/10.5281/zenodo.18461352
+  Paper 1  — AI Visibility Lifecycle (v0.7):
+             https://doi.org/10.5281/zenodo.18460711
+  Paper 2  — Ambiguity Elimination (v0.7):
+             https://doi.org/10.5281/zenodo.18461352
+  Paper 3  — Website Visibility & Activity Reporting:
+             https://doi.org/10.5281/zenodo.18512385
+  Paper 4  — Canonical Anchoring:
+             https://doi.org/10.5281/zenodo.18512549
+
+  Tier 2 — Lifecycle Stages
+
+  Paper 5  — Stage 1: AI Crawling:
+             https://doi.org/10.5281/zenodo.18512820
+  Paper 6  — Stage 2: AI Ingestion:
+             https://doi.org/10.5281/zenodo.18512968
+  Paper 7  — Stage 3: AI Classification:
+             https://doi.org/10.5281/zenodo.18513007
+  Paper 8  — Stage 4: AI Harmony Checks:
+             https://doi.org/10.5281/zenodo.18513032
+  Paper 9  — Stage 5: AI Cross-Correlation:
+             https://doi.org/10.5281/zenodo.18513259
+  Paper 10 — Stage 6: AI Trust Building:
+             https://doi.org/10.5281/zenodo.18513553
+  Paper 11 — Stage 7: AI Trust Acceptance:
+             https://doi.org/10.5281/zenodo.18513688
+  Paper 12 — Stage 8: Candidate Surfacing:
+             https://doi.org/10.5281/zenodo.18513751
+  Paper 13 — Stage 9: Early Human Visibility Testing:
+             https://doi.org/10.5281/zenodo.18514086
+  Paper 14 — Stage 10: Baseline Human Ranking:
+             https://doi.org/10.5281/zenodo.18514176
+  Paper 15 — Stage 11: Growth Visibility:
+             https://doi.org/10.5281/zenodo.18514275
+
+  Tier 4 — Training & Certification (Abbreviated)
+
+  Paper 20 — AI Visibility Architecture Training & Certification:
+             https://doi.org/10.5281/zenodo.18512616
+  Paper 23 — Certified AI Visibility Architect:
+             https://doi.org/10.5281/zenodo.18512689
+  Paper 24 — Certified AI Visibility Account Manager:
+             https://doi.org/10.5281/zenodo.18512739
+  Paper 25 — A-to-Z AI-Ready Website Building:
+             https://doi.org/10.5281/zenodo.18512782
 
 ========================================================================
 
@@ -179,6 +217,3 @@ CONTACT
 
 This LICENSE file is part of the AIVA framework publication and should
 be included in all distributions of the associated materials.
-```
-
-Paste this, then click **Commit changes**.
