@@ -34,35 +34,36 @@ The authoritative versions of record are hosted on Zenodo with permanent DOIs.
 
 | # | Paper | Zenodo DOI |
 |---|-------|------------|
-| 1 | [AI Visibility Lifecycle (v0.7)](https://doi.org/10.5281/zenodo.18460711) | 10.5281/zenodo.18460711 |
-| 2 | [Ambiguity Elimination (v0.7)](https://doi.org/10.5281/zenodo.18461352) | 10.5281/zenodo.18461352 |
+| 1 | [AI Visibility Lifecycle (v0.7)](https://doi.org/10.5281/zenodo.18500380) | 10.5281/zenodo.18500380 |
+| 2 | [Ambiguity Elimination (v0.7)](https://doi.org/10.5281/zenodo.18500402) | 10.5281/zenodo.18500402 |
 | 3 | [Website Visibility & Activity Reporting](https://doi.org/10.5281/zenodo.18512385) | 10.5281/zenodo.18512385 |
 | 4 | [Canonical Anchoring](https://doi.org/10.5281/zenodo.18512549) | 10.5281/zenodo.18512549 |
+| 5 | [29 SEO Tasks Transformed for AI Visibility](https://doi.org/10.5281/zenodo.18512464) | 10.5281/zenodo.18512464 |
 
 ### Tier 2 — Lifecycle Stages
 
 | # | Paper | Zenodo DOI |
 |---|-------|------------|
-| 5 | [Stage 1 — AI Crawling](https://doi.org/10.5281/zenodo.18512820) | 10.5281/zenodo.18512820 |
-| 6 | [Stage 2 — AI Ingestion](https://doi.org/10.5281/zenodo.18512968) | 10.5281/zenodo.18512968 |
-| 7 | [Stage 3 — AI Classification](https://doi.org/10.5281/zenodo.18513007) | 10.5281/zenodo.18513007 |
-| 8 | [Stage 4 — AI Harmony Checks](https://doi.org/10.5281/zenodo.18513032) | 10.5281/zenodo.18513032 |
-| 9 | [Stage 5 — AI Cross-Correlation](https://doi.org/10.5281/zenodo.18513259) | 10.5281/zenodo.18513259 |
-| 10 | [Stage 6 — AI Trust Building](https://doi.org/10.5281/zenodo.18513553) | 10.5281/zenodo.18513553 |
-| 11 | [Stage 7 — AI Trust Acceptance](https://doi.org/10.5281/zenodo.18513688) | 10.5281/zenodo.18513688 |
-| 12 | [Stage 8 — Candidate Surfacing](https://doi.org/10.5281/zenodo.18513751) | 10.5281/zenodo.18513751 |
-| 13 | [Stage 9 — Early Human Visibility Testing](https://doi.org/10.5281/zenodo.18514086) | 10.5281/zenodo.18514086 |
-| 14 | [Stage 10 — Baseline Human Ranking](https://doi.org/10.5281/zenodo.18514176) | 10.5281/zenodo.18514176 |
-| 15 | [Stage 11 — Growth Visibility](https://doi.org/10.5281/zenodo.18514275) | 10.5281/zenodo.18514275 |
+| 6 | [Stage 1 — AI Crawling](https://doi.org/10.5281/zenodo.18512820) | 10.5281/zenodo.18512820 |
+| 7 | [Stage 2 — AI Ingestion](https://doi.org/10.5281/zenodo.18512968) | 10.5281/zenodo.18512968 |
+| 8 | [Stage 3 — AI Classification](https://doi.org/10.5281/zenodo.18513007) | 10.5281/zenodo.18513007 |
+| 9 | [Stage 4 — AI Harmony Checks](https://doi.org/10.5281/zenodo.18513032) | 10.5281/zenodo.18513032 |
+| 10 | [Stage 5 — AI Cross-Correlation](https://doi.org/10.5281/zenodo.18513259) | 10.5281/zenodo.18513259 |
+| 11 | [Stage 6 — AI Trust Building](https://doi.org/10.5281/zenodo.18513553) | 10.5281/zenodo.18513553 |
+| 12 | [Stage 7 — AI Trust Acceptance](https://doi.org/10.5281/zenodo.18513688) | 10.5281/zenodo.18513688 |
+| 13 | [Stage 8 — Candidate Surfacing](https://doi.org/10.5281/zenodo.18513751) | 10.5281/zenodo.18513751 |
+| 14 | [Stage 9 — Early Human Visibility Testing](https://doi.org/10.5281/zenodo.18514086) | 10.5281/zenodo.18514086 |
+| 15 | [Stage 10 — Baseline Human Ranking](https://doi.org/10.5281/zenodo.18514176) | 10.5281/zenodo.18514176 |
+| 16 | [Stage 11 — Growth Visibility](https://doi.org/10.5281/zenodo.18514275) | 10.5281/zenodo.18514275 |
 
 ### Tier 4 — Training & Certification (Abbreviated)
 
 | # | Paper | Zenodo DOI |
 |---|-------|------------|
-| 20 | [AI Visibility Architecture Training & Certification](https://doi.org/10.5281/zenodo.18512616) | 10.5281/zenodo.18512616 |
-| 23 | [Certified AI Visibility Architect](https://doi.org/10.5281/zenodo.18512689) | 10.5281/zenodo.18512689 |
-| 24 | [Certified AI Visibility Account Manager](https://doi.org/10.5281/zenodo.18512739) | 10.5281/zenodo.18512739 |
-| 25 | [A-to-Z AI-Ready Website Building](https://doi.org/10.5281/zenodo.18512782) | 10.5281/zenodo.18512782 |
+| 17 | [AI Visibility Architecture Training & Certification](https://doi.org/10.5281/zenodo.18512616) | 10.5281/zenodo.18512616 |
+| 18 | [Certified AI Visibility Architect](https://doi.org/10.5281/zenodo.18512689) | 10.5281/zenodo.18512689 |
+| 19 | [Certified AI Visibility Account Manager](https://doi.org/10.5281/zenodo.18512739) | 10.5281/zenodo.18512739 |
+| 20 | [A-to-Z AI-Ready Website Building](https://doi.org/10.5281/zenodo.18512782) | 10.5281/zenodo.18512782 |
 
 ---
 
@@ -72,6 +73,9 @@ The authoritative versions of record are hosted on Zenodo with permanent DOIs.
 ├── README.md
 ├── LICENSE
 ├── SPECIFICATION.md
+├── AI_Visibility_Lifecycle.md
+├── AMBIGUITY_ELIMINATION_AS_AN_AI-NATIVE_VISIBILITY_STRATEGY.md
+├── 29_SEO_TASKS_TRANSFORMED_FOR_AI_VISIBILITY.md
 ├── WEBSITE_VISIBILITY_AND_ACTIVITY_REPORTING.md
 ├── CANONICAL_ANCHORING.md
 ├── STAGE_1_AI_CRAWLING.md
@@ -113,7 +117,7 @@ The authoritative versions of record are hosted on Zenodo with permanent DOIs.
 
 ## Citation
 
-Lynch, B. (2026). The 11-Stage AI Visibility Lifecycle (v0.7): A Framework for Understanding AI-Mediated Content Discovery. AI Visibility Architecture Group Limited. https://doi.org/10.5281/zenodo.18460711
+Lynch, B. (2026). The 11-Stage AI Visibility Lifecycle (v0.7): A Framework for Understanding AI-Mediated Content Discovery. AI Visibility Architecture Group Limited. https://doi.org/10.5281/zenodo.18500380
 
 ---
 
