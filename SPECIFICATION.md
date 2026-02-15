@@ -3,7 +3,7 @@
 **⚠️ This document is NOT the canonical source.**
 
 The authoritative reference is the Zenodo deposit:
-https://doi.org/10.5281/zenodo.18460711
+https://doi.org/10.5281/zenodo.18500380
 
 This specification mirrors the canonical source for developer
 accessibility. In case of discrepancy, Zenodo governs.
@@ -110,15 +110,17 @@ If baseline performance is strong, AI expands visibility across regions, query f
 
 | Paper | DOI |
 |-------|-----|
+| [AI Visibility Lifecycle](AI_Visibility_Lifecycle.md) | [10.5281/zenodo.18500380](https://doi.org/10.5281/zenodo.18500380) |
 | [Website Visibility & Activity Reporting](WEBSITE_VISIBILITY_AND_ACTIVITY_REPORTING.md) | [10.5281/zenodo.18512385](https://doi.org/10.5281/zenodo.18512385) |
 | [Canonical Anchoring](CANONICAL_ANCHORING.md) | [10.5281/zenodo.18512549](https://doi.org/10.5281/zenodo.18512549) |
-| [Ambiguity Elimination (v0.7)](https://doi.org/10.5281/zenodo.18461352) | 10.5281/zenodo.18461352 |
+| [Ambiguity Elimination](AMBIGUITY_ELIMINATION_AS_AN_AI-NATIVE_VISIBILITY_STRATEGY.md) | [10.5281/zenodo.18500402](https://doi.org/10.5281/zenodo.18500402) |
+| [29 SEO Tasks Transformed for AI Visibility](29_SEO_TASKS_TRANSFORMED_FOR_AI_VISIBILITY.md) | [10.5281/zenodo.18512464](https://doi.org/10.5281/zenodo.18512464) |
 
 ---
 
 ## Canonical Source
 
-Zenodo: https://doi.org/10.5281/zenodo.18460711
+Zenodo: https://doi.org/10.5281/zenodo.18500380
 
 Related: [aivisibilityarchitects.com](https://aivisibilityarchitects.com) | [cv4students.com](https://cv4students.com)
 
