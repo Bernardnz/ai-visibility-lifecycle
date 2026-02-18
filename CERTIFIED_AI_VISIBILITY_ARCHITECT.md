@@ -1,6 +1,8 @@
 # CERTIFIED AI VISIBILITY ARCHITECT
 
-**Professional Tier 3 Certification Program**
+**Professional Certification Program**
+
+Designing and Building AI Visibility Architecture Across All 11 Stages
 
 From The 11-Stage AI Visibility Lifecycle (v0.7)
 
@@ -8,73 +10,60 @@ Bernard Lynch | AI Visibility Architecture Group Limited
 
 ---
 
-> This document is a mirror of the canonical publication hosted on Zenodo. The authoritative version of record is the Zenodo DOI: [10.5281/zenodo.18512689](https://doi.org/10.5281/zenodo.18512689) In the event of any discrepancy, the Zenodo version prevails.
+## Introduction
 
-**Introduction**
+The **Certified AI Visibility Architect** represents the senior professional certification within the AI Visibility Architecture framework. This credential validates the ability to design and build complete AI visibility architectures across all 11 stages of the AI Visibility Lifecycle, manage the full governance-compliant reporting process, and deliver measurable results in production environments.
 
-The Certified AI Visibility Architect represents the professional capstone certification within the AI Visibility Architecture framework. This credential validates comprehensive architectural competence across all 11 stages of the AI Visibility Lifecycle through real-world application and demonstrated outcomes.
+Unlike course completion certificates that validate learning, **professional certification validates mastery** — the demonstrated ability to design systems, resolve structural constraints, manage the reporting process, and deliver architectural outcomes that perform in production.
 
-Unlike course completion certificates that validate learning, professional certification validates mastery — the ability to design and deliver complete AI visibility architectures that perform in production environments.
+---
 
-This certification represents the technical architecture tier of the discipline: professionals responsible for the structural design and integrity of AI visibility systems.
+## What Certification Validates
 
-**What Professional Certification Represents**
+The Certified AI Visibility Architect credential validates demonstrated competence across two layers:
 
-The Certified AI Visibility Architect credential signifies:
+- **Architectural mastery** across all 11 stages of the AI Visibility Lifecycle
+- Ability to **design and build** complete AI visibility systems that perform in production
+- Ability to **resolve structural constraints** at the infrastructure level
+- Full AIVA **reporting process capability** — managing AI to produce governance-compliant reports, reviewing output, and delivering to clients
+- **Governance mastery** and accountability for architectural decisions and outcomes
+- Adherence to defined professional standards, ethics, and scope boundaries
 
--   Mastery of the full AI Visibility Lifecycle (Stages 1--11)
+This credential certifies both architectural mastery and reporting process competence, demonstrated through real-world results.
 
--   Proven architectural competence across complex, multi-stage systems
+---
 
--   Demonstrated ability to resolve structural visibility constraints
+## The Role
 
--   Evidence-based decision-making under real-world conditions
+The AI Visibility Architect designs and builds AI visibility systems. The Architect can also manage the full AIVA reporting process — everything the Account Manager does, plus architectural capability on top.
 
--   Accountability for outcomes, not just recommendations
+**What the Architect does:**
 
--   Adherence to defined professional standards, ethics, and scope boundaries
+- Designs and builds AI visibility architectures across all 11 lifecycle stages
+- Resolves structural constraints at the infrastructure level
+- Manages AI to produce governance-compliant visibility reports, reviews output, and delivers to clients
+- Delivers measurable improvements in production environments
 
-This credential does not certify theoretical understanding. It certifies architectural mastery demonstrated through results.
+The Architect is the senior role. The distinction from the Account Manager is depth, not scope — both work across all 11 stages. The Account Manager manages reporting. The Architect manages reporting AND designs the systems the reports are measuring.
 
-**Architect Role Scope**
+---
 
-The Architect role is focused on system design and structural resolution across the full AI visibility lifecycle.
+## Professional Distinction
 
-Certified Architects are responsible for:
+The Certified AI Visibility Architect credential distinguishes professionals who can design and build AI visibility systems, manage the complete reporting process, and deliver measurable architectural outcomes.
 
--   Designing AI visibility architectures
+- Design and build AI visibility architectures that perform in production
+- Resolve structural constraints at the infrastructure level, not symptomatically
+- Manage the full governance-compliant reporting process in addition to architectural work
+- Apply methodology with professional judgment and ethical responsibility
 
--   Resolving structural and systemic constraints
-
--   Maintaining architectural integrity across stages
-
--   Delivering measurable improvements in production environments
-
-Architects work at the architecture level, not the monitoring or reporting layer. Interpretation and ongoing visibility tracking are handled by Account Managers.
-
-**Professional Distinction**
-
-The Certified AI Visibility Architect credential represents the highest professional tier within the AI Visibility Architecture framework.
-
-It distinguishes professionals who:
-
--   Operate across the full lifecycle, not partial stages
-
--   Resolve constraints structurally, not symptomatically
-
--   Are accountable for architectural decisions and outcomes
-
--   Apply methodology with professional judgment and ethical responsibility
-
-This credential is awarded only through demonstrated real-world mastery, not attendance or coursework alone.
+This credential is awarded only through **demonstrated real-world mastery**, not attendance or coursework alone.
 
 ---
 
 ## ACCESS AND SCOPE NOTICE
 
-Detailed methodologies for AI visibility measurement, architectural frameworks, and diagnostic practices are maintained separately. This paper describes the structural gap — not the operational response.
-
-Role definitions establish scope and responsibility at the time of publication. Certification standards, enforcement mechanisms, and governance requirements evolve as the AI visibility discipline matures.
+Detailed methodologies for AI visibility measurement, architectural frameworks, and diagnostic practices are maintained separately. Certification standards and governance requirements evolve as the AI visibility discipline matures.
 
 Public documentation describes what is happening, not how to address it.
 
@@ -84,10 +73,8 @@ Public documentation describes what is happening, not how to address it.
 
 **Framework Developer:** Bernard Lynch, Founder of CV4Students.com, AI Visibility & Signal Mesh Architect, Developer of the 11-Stage AI Visibility Lifecycle | AI Visibility Architecture Group Limited | AIVisibilityArchitects.com
 
----
-
-**License** This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc-nd/4.0/
+**License** This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). To view a copy of this license, visit: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 **Canonical Source** This Zenodo deposit is the canonical source for the AI Visibility Lifecycle framework. Related implementations: cv4students.com | aivisibilityarchitects.com
 
-**Suggested Citation** Lynch, B. (2026). Certified AI Visibility Architect: Professional Tier 3 Certification Program (v0.7). Zenodo. https://doi.org/10.5281/zenodo.18512689
+**Suggested Citation** Lynch, B. (2026). Certified AI Visibility Architect: Professional Certification Program (v0.7). Zenodo. https://doi.org/10.5281/zenodo.18512689
