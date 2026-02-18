@@ -1,6 +1,8 @@
 # CERTIFIED AI VISIBILITY ACCOUNT MANAGER
 
-**Professional Tier 2 Certification Program**
+**Professional Certification Program**
+
+Managing the End-to-End AI Visibility Reporting Process
 
 From The 11-Stage AI Visibility Lifecycle (v0.7)
 
@@ -8,77 +10,59 @@ Bernard Lynch | AI Visibility Architecture Group Limited
 
 ---
 
-> This document is a mirror of the canonical publication hosted on Zenodo. The authoritative version of record is the Zenodo DOI: [10.5281/zenodo.18512739](https://doi.org/10.5281/zenodo.18512739) In the event of any discrepancy, the Zenodo version prevails.
+## Introduction
 
-# Introduction
+The **Certified AI Visibility Account Manager** represents the professional certification within the AI Visibility Architecture framework. This credential validates the ability to manage AI-assisted report production across all 11 stages of the AI Visibility Lifecycle, critically review AI-generated output, apply professional judgment, and deliver actionable client reporting.
 
-The Certified AI Visibility Account Manager represents the professional mid-tier certification within the AI Visibility Architecture framework. This credential validates analytical competence across the five AI Comprehension stages (Stages 1--5) of the AI Visibility Lifecycle through demonstrated interpretation capability and reporting proficiency.
+Unlike course completion certificates that validate learning, **professional certification validates competence** — the demonstrated ability to manage the reporting process end-to-end, ensure governance compliance, and add the human judgment layer that turns evidence into client action.
 
-Unlike course completion certificates that validate learning, professional certification validates competence — the ability to interpret AI visibility reports, diagnose comprehension-layer constraints, and communicate findings to inform client decisions.
+---
 
-This certification represents the analytical and reporting tier of the discipline: professionals responsible for interpreting visibility data and translating it into actionable insight.
+## The Role
 
-# What Professional Certification Represents
+The AI Visibility Account Manager manages the complete AIVA reporting process for a client. The role sits at the centre of the operational chain: AI produces the reports, the Account Manager reviews and adds professional judgment, the client receives and acts.
 
-The Certified AI Visibility Account Manager credential signifies:
+**What the Account Manager does:**
 
--   Mastery of AI Comprehension stages (Stages 1--5)
+- Manages AI to produce governance-compliant visibility reports from raw evidence
+- Reviews all AI-generated output for governance compliance, factual accuracy, and language standards
+- Writes the professional analysis and recommendations — strategic assessment, risk assessment, and next period focus grounded in evidence and client-specific context
+- Delivers to the client — presents findings, manages expectations, answers questions, and agrees on next steps
 
--   Proven interpretation capability across visibility reporting systems
+The Account Manager is the quality controller, the professional voice, and the client relationship.
 
--   Demonstrated ability to diagnose comprehension-layer constraints
+---
 
--   Evidence-based recommendations within defined scope
+## What Certification Validates
 
--   Professional communication and client accountability
+The Certified AI Visibility Account Manager credential validates demonstrated competence across six domains:
 
--   Adherence to defined professional standards, ethics, and scope boundaries
+- **AI Management** — Ability to direct AI to produce governance-compliant reports across all 11 lifecycle stages
+- **Report Review** — Ability to critically review AI output and identify governance violations, unsupported claims, and factual errors
+- **Lifecycle Knowledge** — Understanding of all 11 stages, how they relate, and how to interpret stage status for a client
+- **Governance Mastery** — Thorough understanding of the core governance rules, language standards, and evidence admissibility
+- **Professional Judgment** — Ability to write evidence-based recommendations, manage expectations, and provide client-specific strategic assessment
+- **Client Delivery** — Ability to present findings, explain limitations honestly, answer questions, and maintain client confidence without overpromising
 
-This credential does not certify architectural capability. It certifies analytical mastery demonstrated through interpretation and reporting.
+This credential does **not** certify architectural capability. It certifies the ability to manage the reporting process, review AI output, and deliver professional client reporting.
 
-# Account Manager Role Scope
+---
 
-The Account Manager role is focused on interpretation, diagnosis, and communication across the AI Comprehension stages.
+## Professional Distinction
 
-Certified Account Managers are responsible for:
+The Certified AI Visibility Account Manager credential distinguishes professionals who can manage AI to produce governance-compliant visibility reports, review output critically, interpret status across all 11 lifecycle stages, and deliver actionable intelligence to clients.
 
--   Interpreting AI Visibility Index reports
+This credential is awarded only through **demonstrated competence**, not attendance or coursework alone.
 
--   Diagnosing constraints within Stages 1--5
+### Pathway to Architect
 
--   Communicating findings to clients and stakeholders
-
--   Providing evidence-based recommendations within scope
-
-Account Managers work at the reporting and interpretation layer, not the architecture level. System design and structural resolution are handled by Architects.
-
-# Professional Distinction
-
-The Certified AI Visibility Account Manager credential represents a structured transition path for SEO professionals entering AI visibility practice.
-
-It distinguishes professionals who:
-
--   Interpret visibility data accurately and professionally
-
--   Diagnose constraints within their certified scope
-
--   Communicate findings clearly to inform client decisions
-
--   Maintain ethical standards and scope boundaries
-
-This credential is awarded only through demonstrated interpretation capability, not attendance or coursework alone.
-
-# Pathway to Architect
-
-The Account Manager certification provides a foundation for advancement to Certified AI Visibility Architect (Tier 3) for those seeking to work across the full 11-stage lifecycle.
+The Account Manager certification provides a foundation for advancement to **Certified AI Visibility Architect** for those seeking to work at the architectural and infrastructure level of the discipline.
 
 ---
 
 ## ACCESS AND SCOPE NOTICE
 
-Detailed methodologies for AI visibility measurement, architectural frameworks, and diagnostic practices are maintained separately. This paper describes the structural gap — not the operational response.
-
-Role definitions establish scope and responsibility at the time of publication. Certification standards, enforcement mechanisms, and governance requirements evolve as the AI visibility discipline matures.
+Detailed methodologies for AI visibility measurement, architectural frameworks, and diagnostic practices are maintained separately. Certification standards and governance requirements evolve as the AI visibility discipline matures.
 
 Public documentation describes what is happening, not how to address it.
 
@@ -88,10 +72,8 @@ Public documentation describes what is happening, not how to address it.
 
 **Framework Developer:** Bernard Lynch, Founder of CV4Students.com, AI Visibility & Signal Mesh Architect, Developer of the 11-Stage AI Visibility Lifecycle | AI Visibility Architecture Group Limited | AIVisibilityArchitects.com
 
----
-
-**License** This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc-nd/4.0/
+**License** This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). To view a copy of this license, visit: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 **Canonical Source** This Zenodo deposit is the canonical source for the AI Visibility Lifecycle framework. Related implementations: cv4students.com | aivisibilityarchitects.com
 
-**Suggested Citation** Lynch, B. (2026). Certified AI Visibility Account Manager: Professional Tier 2 Certification Program (v0.7). Zenodo. https://doi.org/10.5281/zenodo.18512739
+**Suggested Citation** Lynch, B. (2026). Certified AI Visibility Account Manager: Professional Certification Program (v0.7). Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
