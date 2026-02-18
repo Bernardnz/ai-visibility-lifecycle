@@ -76,4 +76,4 @@ Public documentation describes what is happening, not how to address it.
 
 **Canonical Source** This Zenodo deposit is the canonical source for the AI Visibility Lifecycle framework. Related implementations: cv4students.com | aivisibilityarchitects.com
 
-**Suggested Citation** Lynch, B. (2026). Certified AI Visibility Account Manager: Professional Certification Program (v0.7). Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+**Suggested Citation** Lynch, B. (2026). Certified AI Visibility Account Manager: Professional Certification Program (v0.7). Zenodo. https://doi.org/10.5281/zenodo.18512739
