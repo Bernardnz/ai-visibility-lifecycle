@@ -10,7 +10,7 @@ Bernard Lynch | AI Visibility Architecture Group Limited
 
 ## Overview
 
-The AI Visibility Lifecycle is a stage-based observational framework describing how digital content achieves visibility within AI discovery, comprehension, trust, and human exposure systems. The framework consists of eleven stages across three phases: AI Comprehension (Stages 1–5), Trust Establishment (Stages 6–8), and Human Visibility (Stages 9–11).
+The AI Visibility Lifecycle is a stage-based observational framework describing how websites achieve visibility within AI discovery, comprehension, trust, and human exposure systems. The framework consists of eleven stages across three phases: AI Comprehension (Stages 1–5), Trust Establishment (Stages 6–8), and Human Visibility (Stages 9–11).
 
 This repository contains the complete published framework documentation as machine-readable Markdown. Each document mirrors the canonical Zenodo publication and includes a DOI reference. In the event of any discrepancy, the Zenodo version prevails.
 
