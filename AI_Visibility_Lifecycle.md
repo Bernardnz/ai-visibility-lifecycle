@@ -1,4 +1,4 @@
-# THE 11-STAGE AI VISIBILITY LIFECYCLE (v0.7)
+# THE 11-STAGE AI VISIBILITY LIFECYCLE
 
 **A Framework for Understanding AI-Mediated Content Discovery**
 
