@@ -29,6 +29,15 @@ The authoritative versions of record are hosted on Zenodo with permanent DOIs.
 ---
 
 ## Published Papers
+### Controlled Vocabulary
+
+| Document | DOI |
+|----------|-----|
+| [AIVA Terminology Index (v1.0)](https://doi.org/10.5281/zenodo.19505331) | 10.5281/zenodo.19505331 |
+
+**Namespace:** https://aivisibilityarchitects.com/vocab# | **W3C CG:** [AI Visibility Lifecycle Framework Community Group](https://www.w3.org/community/ai-web-visibility/) | **Licence:** CC BY-NC-ND 4.0
+
+---
 
 ### Tier 1 — Core Framework
 
