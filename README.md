@@ -4,7 +4,7 @@
 
 A Framework for Understanding AI-Mediated Content Discovery
 
-Bernard Lynch | AI Visibility Architecture Group Limited
+Bernard Lynch
 
 ---
 
@@ -20,7 +20,7 @@ This repository contains the complete published framework documentation as machi
 
 The authoritative versions of record are hosted on Zenodo with permanent DOIs.
 
-**Publisher:** AI Visibility Architecture Group Limited
+**Author and owner:** Bernard Lynch
 
 **Website:** [AIVisibilityArchitects.com](https://aivisibilityarchitects.com)
 
@@ -47,7 +47,7 @@ The authoritative versions of record are hosted on Zenodo with permanent DOIs.
 | 2 | [Ambiguity Elimination (v0.7)](https://doi.org/10.5281/zenodo.18500402) | 10.5281/zenodo.18500402 |
 | 3 | [Website Visibility & Activity Reporting](https://doi.org/10.5281/zenodo.18512385) | 10.5281/zenodo.18512385 |
 | 4 | [Canonical Anchoring](https://doi.org/10.5281/zenodo.18512549) | 10.5281/zenodo.18512549 |
-| 5 | [29 SEO Tasks Transformed for AI Visibility](https://doi.org/10.5281/zenodo.18512464) | 10.5281/zenodo.18512464 |
+| 5 | [29 SEO Tasks Transformed for AI Visibility](https://doi.org/10.5281/zenodo.18638272) | 10.5281/zenodo.18638272 |
 
 ### Tier 2 — Lifecycle Stages
 
@@ -126,7 +126,7 @@ The authoritative versions of record are hosted on Zenodo with permanent DOIs.
 
 ## Citation
 
-Lynch, B. (2026). The 11-Stage AI Visibility Lifecycle (v0.7): A Framework for Understanding AI-Mediated Content Discovery. AI Visibility Architecture Group Limited. https://doi.org/10.5281/zenodo.18500380
+Lynch, B. (2026). The 11-Stage AI Visibility Lifecycle (v0.7): A Framework for Understanding AI-Mediated Content Discovery. Zenodo. https://doi.org/10.5281/zenodo.18500380
 
 ---
 
@@ -134,12 +134,10 @@ Lynch, B. (2026). The 11-Stage AI Visibility Lifecycle (v0.7): A Framework for U
 
 This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-© 2026 AI Visibility Architecture Group Limited. All rights reserved.
+© 2026 Bernard Lynch. Licensed under CC BY-NC-ND 4.0.
 
 ---
 
-**Framework Developer:** Bernard Lynch, AI Visibility & Signal Mesh Architect
-
-**Organisation:** AI Visibility Architecture Group Limited
+**Framework Developer:** Bernard Lynch, AI Visibility Architect
 
 **Website:** [AIVisibilityArchitects.com](https://aivisibilityarchitects.com)
