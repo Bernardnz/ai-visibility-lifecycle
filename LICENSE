@@ -1,18 +1,14 @@
 LICENSE
 
 AI Visibility Lifecycle™ Framework
-AI Visibility Architecture Group Limited
+Bernard Lynch
 
 ========================================================================
 
-Copyright (c) 2025-2026 AI Visibility Architecture Group Limited
-All Rights Reserved.
+© 2026 Bernard Lynch. Licensed under CC BY-NC-ND 4.0.
 
-Legal Entity:   AI Visibility Architecture Group Limited
-Company Number: 9395521
-NZBN:           9429053354075
-Incorporated:   5 January 2026
-Location:       Auckland, New Zealand
+Owner:    Bernard Lynch
+Location: Auckland, New Zealand
 
 ========================================================================
 
@@ -60,7 +56,7 @@ SCOPE OF INTELLECTUAL PROPERTY
 
 All content, frameworks, methodologies, white papers, specifications,
 and documentation contained in this repository are the exclusive
-intellectual property of AI Visibility Architecture Group Limited.
+intellectual property of Bernard Lynch.
 
 This includes:
 
@@ -72,9 +68,8 @@ This includes:
   - The measurement taxonomy, evidence structures, source mapping,
     synthesis framework, and reporting architecture
 
-All intellectual property developed prior to 5 January 2026 by founder
-Bernard Lynch has been formally assigned to AI Visibility Architecture
-Group Limited upon incorporation.
+Bernard Lynch is the sole author and sole owner of this intellectual
+property.
 
 ========================================================================
 
@@ -96,7 +91,7 @@ PROHIBITED USES
 You may NOT:
 
   - Reproduce, republish, or redistribute the framework or associated
-    materials without written permission
+    materials except as the CC BY-NC-ND 4.0 licence allows
   - Create derivative works based on the methodology
   - Use the framework for commercial purposes without a commercial
     licence
@@ -111,14 +106,13 @@ ATTRIBUTION REQUIREMENTS
 When referencing this work, you must include:
 
   1. Full citation:
-     "AI Visibility Lifecycle™ framework by AI Visibility Architecture
-     Group Limited"
+     "AI Visibility Lifecycle™ framework by Bernard Lynch"
 
   2. Active hyperlink to the source:
      https://aivisibilityarchitects.com
 
   3. Copyright notice:
-     "© 2025-2026 AI Visibility Architecture Group Limited"
+     "© 2026 Bernard Lynch"
 
 ========================================================================
 
@@ -140,7 +134,7 @@ Zenodo DOIs.
   Paper 4  — Canonical Anchoring:
              https://doi.org/10.5281/zenodo.18512549
   Paper 5  — 29 SEO Tasks Transformed for AI Visibility:
-             https://doi.org/10.5281/zenodo.18512464
+             https://doi.org/10.5281/zenodo.18638272
 
   Tier 2 — Lifecycle Stages
 
@@ -183,8 +177,7 @@ Zenodo DOIs.
 COMMERCIAL LICENSING
 
 Commercial use of the AIVA framework and reporting methodology
-requires a separate commercial licence from AI Visibility Architecture
-Group Limited.
+requires a separate commercial licence from Bernard Lynch.
 
 Five commercial licence types are available:
 
@@ -202,10 +195,10 @@ Full details: https://aivisibilityarchitects.com/commercial-licensing/
 
 ENFORCEMENT
 
-AI Visibility Architecture Group Limited reserves the right to pursue
-legal action against any unauthorised use, reproduction, or
-misappropriation of its intellectual property. All licence agreements
-are governed by the laws of New Zealand.
+Bernard Lynch reserves the right to pursue legal action against any
+unauthorised use, reproduction, or misappropriation of this
+intellectual property. All licence agreements are governed by the
+laws of New Zealand.
 
 ========================================================================
 
