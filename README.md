@@ -80,6 +80,7 @@ Each paper below links to its Zenodo record by its DOI, which always opens the l
 | 30 | An Open Letter to SEO Tool Vendors | 1.1 | [10.5281/zenodo.18856709](https://doi.org/10.5281/zenodo.18856709) | [An_Open_Letter_to_SEO_Tool_Vendors_v1.1.pdf](An_Open_Letter_to_SEO_Tool_Vendors_v1.1.pdf) |
 | 31 | An Open Letter to Web Development Agencies | 1.1 | [10.5281/zenodo.18856776](https://doi.org/10.5281/zenodo.18856776) | [An_Open_Letter_to_Web_Development_Agencies_v1.1.pdf](An_Open_Letter_to_Web_Development_Agencies_v1.1.pdf) |
 | 32 | Hiring for a Skill No One Can Teach | 1 | [10.5281/zenodo.24409399](https://doi.org/10.5281/zenodo.24409399) | [Hiring_for_a_Skill_No_One_Can_Teach_v1.pdf](Hiring_for_a_Skill_No_One_Can_Teach_v1.pdf) |
+| 33 | Measured on the Wrong Web | 1.0 | [10.5281/zenodo.24614696](https://doi.org/10.5281/zenodo.24614696) | [Measured_on_the_Wrong_Web_v1.0.pdf](Measured_on_the_Wrong_Web_v1.0.pdf) |
 
 ### Controlled Vocabulary
 
